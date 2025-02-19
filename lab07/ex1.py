@@ -1,6 +1,6 @@
 # 1
-for i in range(1, 11):
-    print(i)
+for i in range(10):
+    print(i+1)
 
 
 i = 1
@@ -9,8 +9,8 @@ while i <= 10:
     i += 1
 
 # 2
-for char in "Python":
-    print(char)
+for x in "Python":
+    print(x)
 
 #3
 i = 2

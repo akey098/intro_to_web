@@ -1,5 +1,5 @@
 # Name variable
-name = "Kate"
+name = "Liza"
 print("Name:", name)
 
 # Arithmetic operations

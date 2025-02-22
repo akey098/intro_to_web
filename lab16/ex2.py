@@ -3,7 +3,7 @@ import json
 # Data to store
 student = {
     "name": "Liza",
-    "age": 19,
+    "age": 19 ,
     "courses": ["Math", "Science", "History"]
 }
 

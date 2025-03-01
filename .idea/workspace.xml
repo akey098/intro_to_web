@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b61d35-e438-425c-a87f-2a0e8b67e830" name="Changes" comment="did labs 16-17">
-      <change afterPath="$PROJECT_DIR$/lab19/index.html" afterDir="false" />
+    <list default="true" id="35b61d35-e438-425c-a87f-2a0e8b67e830" name="Changes" comment="did labs 18-19">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +80,7 @@
       <workItem from="1739977114201" duration="5288000" />
       <workItem from="1740062763746" duration="1041000" />
       <workItem from="1740242413668" duration="33000" />
-      <workItem from="1740258355715" duration="1222000" />
+      <workItem from="1740258355715" duration="2197000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -131,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740258801291</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="did labs 18-19">
+      <option name="closed" value="true" />
+      <created>1740259874170</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740259874170</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,7 +149,8 @@
     <MESSAGE value="did labs 3-9" />
     <MESSAGE value="did labs 10-15" />
     <MESSAGE value="did labs 16-17" />
-    <option name="LAST_COMMIT_MESSAGE" value="did labs 16-17" />
+    <MESSAGE value="did labs 18-19" />
+    <option name="LAST_COMMIT_MESSAGE" value="did labs 18-19" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/web_prog$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1739979484242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab14" />

@@ -1,0 +1,14 @@
+
+p {
+    color: green;
+}
+
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+#unique-heading {
+    color: blue;
+    text-align: center;
+}

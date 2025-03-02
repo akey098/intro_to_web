@@ -1,0 +1,39 @@
+/* Lab 1 - Basic Font Settings */
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+p {
+    font-family: "Times New Roman", serif;
+    font-size: 20px;
+    font-weight: normal;
+}
+
+/* Lab 2 - Text Alignment & Line Height */
+.aligned-text {
+    text-align: justify;
+    line-height: 1.5;
+}
+
+/* Lab 3 - Text Shadows */
+.shadow-text {
+    font-size: 40px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+/* Lab 4 - Google Fonts */
+.google-font {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+}
+
+/* Lab 5 - Custom Font */
+@font-face {
+    font-family: 'CustomFont';
+    src: url('Ordinary Notes.woff2') format('woff2'),
+         url('Ordinary Notes Thin.woff') format('woff');
+}
+.custom-font {
+    font-family: 'CustomFont', sans-serif;
+}

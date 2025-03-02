@@ -1,0 +1,17 @@
+
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+p {
+    color: darkgreen;
+}
+
+.class-style {
+    background-color: lightblue;
+}

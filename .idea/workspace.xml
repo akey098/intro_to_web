@@ -4,23 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b61d35-e438-425c-a87f-2a0e8b67e830" name="Changes" comment="did labs 23-24">
-      <change afterPath="$PROJECT_DIR$/lab25/colors.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab25/ex1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab25/ex2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab25/ex3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab25/ex4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab25/full-style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab25/selectors.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab25/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab26/Ordinary Notes Thin.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab26/Ordinary Notes.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab26/ex1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab26/ex2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab26/ex3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab26/ex4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab26/ex5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab26/styles.css" afterDir="false" />
+    <list default="true" id="35b61d35-e438-425c-a87f-2a0e8b67e830" name="Changes" comment="did labs 25-26">
+      <change afterPath="$PROJECT_DIR$/lab27/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab27/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab28/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab28/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab28/ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab29/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab29/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab29/ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab29/image.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab29/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +65,7 @@
     "JavaScript Debug.ex3.html.executor": "Run",
     "JavaScript Debug.ex4.html.executor": "Run",
     "JavaScript Debug.ex5.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
     "Python.ex1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -85,6 +80,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Liza\PycharmProjects\web_prog\lab29" />
       <recent name="C:\Users\Liza\PycharmProjects\web_prog\lab26" />
       <recent name="C:\Users\Liza\PycharmProjects\web_prog\lab23" />
     </key>
@@ -111,7 +107,10 @@
       <workItem from="1740242413668" duration="33000" />
       <workItem from="1740258355715" duration="2197000" />
       <workItem from="1740849202140" duration="1963000" />
-      <workItem from="1740905481878" duration="3044000" />
+      <workItem from="1740905481878" duration="3327000" />
+      <workItem from="1740986253809" duration="240000" />
+      <workItem from="1741152064740" duration="706000" />
+      <workItem from="1741235111515" duration="1362000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -185,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740908256677</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="did labs 25-26">
+      <option name="closed" value="true" />
+      <created>1740916169262</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740916169262</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +206,8 @@
     <MESSAGE value="did labs 18-19" />
     <MESSAGE value="did labs 20-22" />
     <MESSAGE value="did labs 23-24" />
-    <option name="LAST_COMMIT_MESSAGE" value="did labs 23-24" />
+    <MESSAGE value="did labs 25-26" />
+    <option name="LAST_COMMIT_MESSAGE" value="did labs 25-26" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/web_prog$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1739979484242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab14" />

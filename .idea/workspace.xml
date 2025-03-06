@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b61d35-e438-425c-a87f-2a0e8b67e830" name="Changes" comment="did labs 27-29">
-      <change afterPath="$PROJECT_DIR$/lab30/ex1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab30/ex2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab30/ex3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab30/ex4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab31/ex1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab31/ex2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab31/ex3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab31/ex4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab32/ex1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab32/ex2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab32/ex3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab32/ex4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab32/ex5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab32/ex6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="35b61d35-e438-425c-a87f-2a0e8b67e830" name="Changes" comment="did labs 30-32">
+      <change beforePath="$PROJECT_DIR$/lab08/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab08/functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +56,15 @@
     "JavaScript Debug.ex4.html.executor": "Run",
     "JavaScript Debug.ex5.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
+    "Python.conditions.executor": "Run",
+    "Python.datatypes.executor": "Run",
     "Python.ex1.executor": "Run",
+    "Python.ex2.executor": "Run",
+    "Python.examples.executor": "Run",
+    "Python.exercise1.executor": "Run",
+    "Python.flask.executor": "Run",
+    "Python.loops.executor": "Run",
+    "Python.operations.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "list.type.of.created.stylesheet": "CSS",
@@ -114,7 +108,7 @@
       <workItem from="1740905481878" duration="3327000" />
       <workItem from="1740986253809" duration="240000" />
       <workItem from="1741152064740" duration="706000" />
-      <workItem from="1741235111515" duration="3830000" />
+      <workItem from="1741235111515" duration="4141000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -204,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741258693092</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="did labs 30-32">
+      <option name="closed" value="true" />
+      <created>1741261875624</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1741261875624</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,9 +222,18 @@
     <MESSAGE value="did labs 23-24" />
     <MESSAGE value="did labs 25-26" />
     <MESSAGE value="did labs 27-29" />
-    <option name="LAST_COMMIT_MESSAGE" value="did labs 27-29" />
+    <MESSAGE value="did labs 30-32" />
+    <option name="LAST_COMMIT_MESSAGE" value="did labs 30-32" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/web_prog$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1739979484242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab14" />
+    <SUITE FILE_PATH="coverage/web_prog$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1741262115089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab09" />
+    <SUITE FILE_PATH="coverage/web_prog$flask.coverage" NAME="flask Coverage Results" MODIFIED="1741261923005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab04" />
+    <SUITE FILE_PATH="coverage/web_prog$examples.coverage" NAME="examples Coverage Results" MODIFIED="1741261990380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab05" />
+    <SUITE FILE_PATH="coverage/web_prog$loops.coverage" NAME="loops Coverage Results" MODIFIED="1741262018096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab07" />
+    <SUITE FILE_PATH="coverage/web_prog$exercise1.coverage" NAME="exercise1 Coverage Results" MODIFIED="1741261910770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab03" />
+    <SUITE FILE_PATH="coverage/web_prog$datatypes.coverage" NAME="datatypes Coverage Results" MODIFIED="1741261997045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab06" />
+    <SUITE FILE_PATH="coverage/web_prog$operations.coverage" NAME="operations Coverage Results" MODIFIED="1741262007279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab06" />
+    <SUITE FILE_PATH="coverage/web_prog$conditions.coverage" NAME="conditions Coverage Results" MODIFIED="1741262011068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab07" />
+    <SUITE FILE_PATH="coverage/web_prog$ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1741261985248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab05" />
   </component>
 </project>

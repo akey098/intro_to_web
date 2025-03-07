@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b61d35-e438-425c-a87f-2a0e8b67e830" name="Changes" comment="did labs 30-32">
-      <change beforePath="$PROJECT_DIR$/lab08/functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/lab08/functions.py" afterDir="false" />
+    <list default="true" id="35b61d35-e438-425c-a87f-2a0e8b67e830" name="Changes" comment="correct">
+      <change afterPath="$PROJECT_DIR$/lab33/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab34/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab34/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab34/ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab34/ex4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab34/ex5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab34/ex6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,35 +54,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.ex1.html.executor": "Run",
-    "JavaScript Debug.ex2.html.executor": "Run",
-    "JavaScript Debug.ex3.html.executor": "Run",
-    "JavaScript Debug.ex4.html.executor": "Run",
-    "JavaScript Debug.ex5.html.executor": "Run",
-    "JavaScript Debug.index.html.executor": "Run",
-    "Python.conditions.executor": "Run",
-    "Python.datatypes.executor": "Run",
-    "Python.ex1.executor": "Run",
-    "Python.ex2.executor": "Run",
-    "Python.examples.executor": "Run",
-    "Python.exercise1.executor": "Run",
-    "Python.flask.executor": "Run",
-    "Python.loops.executor": "Run",
-    "Python.operations.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.ex1.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.ex2.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.ex3.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.ex4.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.ex5.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;Python.conditions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.datatypes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.examples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exercise1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.flask.executor&quot;: &quot;Run&quot;,
+    &quot;Python.loops.executor&quot;: &quot;Run&quot;,
+    &quot;Python.operations.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Liza\PycharmProjects\web_prog\lab29" />
@@ -108,7 +115,8 @@
       <workItem from="1740905481878" duration="3327000" />
       <workItem from="1740986253809" duration="240000" />
       <workItem from="1741152064740" duration="706000" />
-      <workItem from="1741235111515" duration="4141000" />
+      <workItem from="1741235111515" duration="5020000" />
+      <workItem from="1741382451818" duration="1080000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -206,7 +214,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741261875624</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="correct">
+      <option name="closed" value="true" />
+      <created>1741262378028</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1741262378028</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,10 +239,11 @@
     <MESSAGE value="did labs 25-26" />
     <MESSAGE value="did labs 27-29" />
     <MESSAGE value="did labs 30-32" />
-    <option name="LAST_COMMIT_MESSAGE" value="did labs 30-32" />
+    <MESSAGE value="correct" />
+    <option name="LAST_COMMIT_MESSAGE" value="correct" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/web_prog$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1741262115089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab09" />
+    <SUITE FILE_PATH="coverage/web_prog$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1741262326495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab15" />
     <SUITE FILE_PATH="coverage/web_prog$flask.coverage" NAME="flask Coverage Results" MODIFIED="1741261923005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab04" />
     <SUITE FILE_PATH="coverage/web_prog$examples.coverage" NAME="examples Coverage Results" MODIFIED="1741261990380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab05" />
     <SUITE FILE_PATH="coverage/web_prog$loops.coverage" NAME="loops Coverage Results" MODIFIED="1741262018096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab07" />

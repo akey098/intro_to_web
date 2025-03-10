@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="35b61d35-e438-425c-a87f-2a0e8b67e830" name="Changes" comment="correct">
-      <change afterPath="$PROJECT_DIR$/lab33/ex1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab34/ex1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab34/ex2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab34/ex3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab34/ex4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab34/ex5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab34/ex6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab35/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab36/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab37/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab38/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab39/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +23,7 @@
         <option value="Python Script" />
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -54,41 +53,47 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.ex1.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.ex2.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.ex3.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.ex4.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.ex5.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;Python.conditions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.datatypes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.examples.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exercise1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.flask.executor&quot;: &quot;Run&quot;,
-    &quot;Python.loops.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operations.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.ex1.html.executor": "Run",
+    "JavaScript Debug.ex2.html.executor": "Run",
+    "JavaScript Debug.ex3.html.executor": "Run",
+    "JavaScript Debug.ex4.html.executor": "Run",
+    "JavaScript Debug.ex5.html.executor": "Run",
+    "JavaScript Debug.index.html.executor": "Run",
+    "Node.js.main.js.executor": "Run",
+    "Python.conditions.executor": "Run",
+    "Python.datatypes.executor": "Run",
+    "Python.ex1.executor": "Run",
+    "Python.ex2.executor": "Run",
+    "Python.examples.executor": "Run",
+    "Python.exercise1.executor": "Run",
+    "Python.flask.executor": "Run",
+    "Python.loops.executor": "Run",
+    "Python.operations.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Liza\PycharmProjects\web_prog\lab29" />
       <recent name="C:\Users\Liza\PycharmProjects\web_prog\lab26" />
       <recent name="C:\Users\Liza\PycharmProjects\web_prog\lab23" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="main.js" working-dir="$PROJECT_DIR$/lab39">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -117,6 +122,9 @@
       <workItem from="1741152064740" duration="706000" />
       <workItem from="1741235111515" duration="5020000" />
       <workItem from="1741382451818" duration="1080000" />
+      <workItem from="1741518313510" duration="2313000" />
+      <workItem from="1741558988019" duration="517000" />
+      <workItem from="1741592304083" duration="1351000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />

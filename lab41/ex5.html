@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Prevent Default Example</title>
+    </style>
+</head>
+<body>
+    <form id="myForm">
+        <input type="text" placeholder="Enter Text" required>
+        <button type="submit">Submit</button>
+    </form>
+    <p id="error"></p>
+
+    <script>
+        document.getElementById("myForm").addEventListener("submit", function(event) {
+            event.preventDefault();
+            document.getElementById("error").innerText = "Form submission prevented!";
+        });
+    </script>
+</body>
+</html>

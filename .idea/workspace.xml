@@ -4,18 +4,54 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="35b61d35-e438-425c-a87f-2a0e8b67e830" name="Changes" comment="correct">
-      <change afterPath="$PROJECT_DIR$/lab42/ex1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab42/ex2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab42/ex3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab42/ex4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab42/ex5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab43/ex1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab43/ex2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab43/ex3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab43/ex4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab43/ex5.html" afterDir="false" />
+    <list default="true" id="35b61d35-e438-425c-a87f-2a0e8b67e830" name="Changes" comment="did labs 42-43">
+      <change afterPath="$PROJECT_DIR$/lab44/to_do_app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab45/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab45/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab45/ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab45/ex4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab45/ex5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab46/labs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab46/pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab46/pic2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab46/pic3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab46/pic4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab46/pic5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab46/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab46/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab47/ex1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab48/ex1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab48/ex2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab48/ex3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab48/ex4.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab48/ex5.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab48/ex6.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab48/ex7.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab49/ex1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab49/ex2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab49/ex3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab49/ex4.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab49/ex5.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab50/ex1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab50/ex2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab50/ex3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab50/ex4.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab50/ex5.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab50/ex6.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task manager/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task manager/app/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task manager/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task manager/app/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task manager/app/static/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task manager/app/static/templates/add_task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task manager/app/static/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task manager/app/static/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task manager/app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task manager/instance/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task manager/instance/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task manager/instance/run.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab38/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lab38/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,10 +61,11 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
-        <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="SQL File" />
       </list>
     </option>
   </component>
@@ -107,6 +144,8 @@
       <recent name="C:\Users\Liza\PycharmProjects\web_prog\lab40" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Liza\PycharmProjects\web_prog\lab46" />
+      <recent name="C:\Users\Liza\PycharmProjects\web_prog\task manager" />
       <recent name="C:\Users\Liza\PycharmProjects\web_prog\lab29" />
       <recent name="C:\Users\Liza\PycharmProjects\web_prog\lab26" />
       <recent name="C:\Users\Liza\PycharmProjects\web_prog\lab23" />
@@ -150,7 +189,10 @@
       <workItem from="1741641394909" duration="12000" />
       <workItem from="1741891789698" duration="3153000" />
       <workItem from="1741906212517" duration="6000" />
-      <workItem from="1741962788333" duration="298000" />
+      <workItem from="1741962788333" duration="912000" />
+      <workItem from="1743464597922" duration="774000" />
+      <workItem from="1744256660680" duration="2457000" />
+      <workItem from="1744292897938" duration="1034000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <option name="closed" value="true" />
@@ -280,7 +322,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741895136726</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="did labs 42-43">
+      <option name="closed" value="true" />
+      <created>1741963105315</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1741963105315</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -300,7 +350,8 @@
     <MESSAGE value="did labs 35-39" />
     <MESSAGE value="did labs 40-41" />
     <MESSAGE value="correct" />
-    <option name="LAST_COMMIT_MESSAGE" value="correct" />
+    <MESSAGE value="did labs 42-43" />
+    <option name="LAST_COMMIT_MESSAGE" value="did labs 42-43" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/web_prog$ex1.coverage" NAME="ex1 Coverage Results" MODIFIED="1741262326495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab15" />

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fetch and Display Images</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+        }
+        .image-card {
+            background: white;
+            padding: 10px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+            width: 200px;
+        }
+        img {
+            width: 100%;
+            border-radius: 5px;
+        }
+        .caption {
+            font-size: 14px;
+            margin-top: 5px;
+            color: #555;
+        }
+    </style>
+</head>
+<body>
+    <h2>Image Gallery</h2>
+    <div class="gallery" id="gallery"></div>
+
+    <script>
+        fetch("https://jsonplaceholder.typicode.com/photos?_limit=5")
+            .then(response => response.json())
+            .then(images => {
+                let gallery = document.getElementById("gallery");
+                images.forEach(image => {
+                    let card = document.createElement("div");
+                    card.className = "image-card";
+                    card.innerHTML = `
+                        <img src="${image.url}" alt="${image.title}">
+                        <div class="caption">${image.title}</div>
+                    `;
+                    gallery.appendChild(card);
+                });
+            })
+            .catch(error => console.error("Error: ", error));
+    </script>
+</body>
+</html>

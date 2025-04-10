@@ -46,7 +46,7 @@ function divide(a, b) {
 console.log("Division result:", divide(10, 2));
 console.log("Division result:", divide(10, 0));
 
-// #5
+// \#5
 try {
     console.log(undefinedVariable);
 } catch (error) {
